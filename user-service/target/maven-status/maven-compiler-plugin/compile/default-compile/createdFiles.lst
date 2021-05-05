@@ -1,0 +1,4 @@
+org/grpc/springboot/user/service/UserService.class
+org/grpc/springboot/user/entity/User.class
+org/grpc/springboot/user/UserApplication.class
+org/grpc/springboot/user/repository/UserRepository.class

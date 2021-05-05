@@ -1,0 +1,4 @@
+org/grpc/springboot/movie/MovieApplication.class
+org/grpc/springboot/movie/service/MovieService.class
+org/grpc/springboot/movie/repository/MovieRepository.class
+org/grpc/springboot/movie/entity/Movie.class
